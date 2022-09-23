@@ -1,1 +1,1 @@
-# DMDD_Project_WorldEnergy
+# DMDDProjectWorldEnergy
