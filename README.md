@@ -14,7 +14,7 @@ iii) dataVisualization.py : This script file is responsible for data visualizati
 5- SQL Queries: Contains all the SQL queries and all the use cases from assignments #2- #4(includes creation, insertion, and deletion of tables and data along with joins and views).
 6- DataBasePicture: This folder has all the consolidated snippets of the database & tables created, snippets of Use Cases, and snippets of visualization performed on the Database.![ER Diagram - Arpita drawio]
 
-(https://user-images.githubusercontent.com/42668979/212137802-02e9b589-f78e-4acc-a489-46ecc1e4be46.png)
+![ER Diagram - Arpita drawio](https://user-images.githubusercontent.com/42668979/212138088-b129e7b9-2259-4497-b66f-8e8cf2dc87a0.png)
 
 About the Project:
 World's Energy Consumption FY- 2021
